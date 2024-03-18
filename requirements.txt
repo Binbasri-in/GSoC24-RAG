@@ -1,2 +1,5 @@
 flask
 gunicorn
+requests-html
+requests
+beautifulsoup4

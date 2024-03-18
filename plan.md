@@ -20,9 +20,13 @@
 1. **Data Collection**: Gather information about GSoC 2024 projects, including project descriptions, skills required, and organization details.
 2. **Data Processing**: Convert the project information into a format suitable for indexing in Pinecone (e.g., vector embeddings).
 
+- Classify the liks into github, google doc, single page, multiple pages, others
+- develop a scraping and processing with AI to extract the information of each Idea
+- Create the vector embeddings for each idea and create the databse or knowledge base
+
 **Phase 2: Development**
-3. **Set up Pinecone**: Initialize the Pinecone vector database and index the processed GSoC project data.
-4. **Develop Chatbot Logic**:
+1. **Set up Pinecone**: Initialize the Pinecone vector database and index the processed GSoC project data.
+2. **Develop Chatbot Logic**:
    - Implement the simple chat interface using Flask and LLaMA for handling general queries.
    - Create the project suggestion feature by integrating CV/resume parsing and matching logic with the Pinecone database to retrieve relevant projects.
    - Develop the project matching feature to allow students to input their interests/skills and receive project recommendations.
