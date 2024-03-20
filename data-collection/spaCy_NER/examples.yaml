@@ -1,0 +1,15 @@
+- text: "Idea 1: Wayback Machine CoPilot. Develop a tool that leverages Wayback Machine APIs. Skills: Python, APIs. Difficulty: Medium. Duration: 350 hours. Related links: https://example.com"
+  entities:
+    TITLE:
+      - "Wayback Machine CoPilot"
+    DESCRIPTION:
+      - "Develop a tool that leverages Wayback Machine APIs."
+    SKILLS:
+      - "Python"
+      - "APIs"
+    DIFFICULTY:
+      - "Medium"
+    DURATION:
+      - "350 hours"
+    RELATED_LINKS:
+      - "https://example.com"
