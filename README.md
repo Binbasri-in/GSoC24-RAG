@@ -4,7 +4,10 @@
 
 A simple chatbot that is RAG with GSoC projects and ideas.
 
-Check out the deployed version: [Start Chat](#)
+Check out the deployed version: [Start Chat](https://gsoc24-rag-hyxf679pnpv7t8xhfslpqt.streamlit.app/)
+Or check the searchable Index [here](https://dashboard.algolia.com/interface-demos/5d1ea5de-51d8-4739-9acc-9ef76387fe28?)
+
+Read my Blog for more information: [GSoC24-RAG](https://medium.com/@mohammed.binbasri/the-freedom-of-being-a-student-e0388ec4e175)
 
 ## Installation
 ```bash
