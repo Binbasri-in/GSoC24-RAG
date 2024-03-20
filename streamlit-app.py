@@ -8,9 +8,10 @@ except ImportError:
 
 st.set_page_config(page_title="Chat with the GSoC 2024 Ideas, powered by LlamaIndex", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets["openai"]["openai_key"]
-st.title("Chat with the Streamlit docs, powered by LlamaIndex 💬🦙")
+st.title("Chat with the GSoC Ideas and Organizations, powered by LlamaIndex 💬🦙")
 st.info("Check out the full tutorial to build this app in my [blog post](https://medium.com/@mohammed.binbasri/the-freedom-of-being-a-student-e0388ec4e175)", icon="📃")
-         
+st.info("Visit my website to know me more [Binbasri :)](https://binbasri.me)", icon="📃")
+
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [
         {"role": "assistant", "content": "Ask me a questions to help you find the best fit from GSoC Ideas 2024!"}
