@@ -2,9 +2,9 @@
 
 # 🦙📚 GSoC24-RAG
 
-A simple chatbot that is RAG with GSoC projects and ideas. Check out the deployed version 
+A simple chatbot that is RAG with GSoC projects and ideas.
 
-[Start Chat](#))
+Check out the deployed version: [Start Chat](#)
 
 ## Installation
 ```bash
