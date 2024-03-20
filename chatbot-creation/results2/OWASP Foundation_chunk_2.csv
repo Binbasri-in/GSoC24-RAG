@@ -1,0 +1,9 @@
+idea title,idea description,skills,difficulty,duration
+Comparison Functionality,Create comparison functionality for comparing the current scan with another scan using scanID,"Python, Flask, HTML/CSS/JavaScript, vulnerability scanning/bug bounty hunting experience",Medium,3 months
+Fix Scan Engine Issues,Fix scan engine multi-threading/queuing issues,"Python, vulnerability scanning/bug bounty hunting experience",Hard,4 months
+Improve WebUI and Add Dashboard,"Improve WebUI, add dashboard","Python, Flask, HTML/CSS/JavaScript",Medium,2 months
+Implement SSL/TLS Modules,Implement SSL/TLS modules to restore functionality from Nettacker v0.0.2,"Python, vulnerability scanning/bug bounty hunting experience",Hard,5 months
+Add DefectDojo Integration,"Add DefectDojo integration, output report format","Python, vulnerability scanning/bug bounty hunting experience",Medium,3 months
+Add SARIF Output Report Format,Add SARIF output report format,"Python, vulnerability scanning/bug bounty hunting experience",Easy,1 month
+Add Threats by Element,Add threats by element for STRIDE/LINDDUN/PLOT4ai,"Javascript, Node.js, git",Medium,3 months
+Add Threats Using OWASP Automated Threats Patterns,Add threats using OWASP Automated Threats (OATs) patterns,"Javascript, Node.js, git",Medium,3 months

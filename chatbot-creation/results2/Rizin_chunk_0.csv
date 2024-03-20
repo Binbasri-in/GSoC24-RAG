@@ -1,0 +1,8 @@
+idea title,idea description,skills,difficulty,duration
+Cutter,Improving usability and user experience,C++ and Qt framework basics,Advanced,175 hours
+Plugins and Python High Level API,Improving the public C++ and Python interface of Cutter,"C++ and Python languages, Qt framework",Advanced,175 hours
+Multi-Tasking and Event-driven architecture,"C++ for Cutter, C for Rizin, Qt framework",Advanced,350 hours,
+Heap viewer completion,Complete Cutter’s implementation of the windows heap widget,C++ and Qt framework,Medium,175 hours
+Diffing mode,Expose basic rz-diff features in the Cutter,"C++ language, Qt framework",Medium,175 hours
+RzIL uplifting migration,"C and bits of C++, basics of program analysis",Medium,350 hours,
+Debugger improvements and portability,Add missing architectures to the native debugger,Advanced,175 hours,

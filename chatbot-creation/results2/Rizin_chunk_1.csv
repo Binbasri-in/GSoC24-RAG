@@ -1,0 +1,31 @@
+idea title,idea description,skills,difficulty,duration
+Integrated source-level information loaded from DWARF or PDB into debug commands and print p commands,"Support for missing architectures that are supported by Rizin statically in the Linux native debugger
+Support for missing architectures that are supported by Rizin statically in the BSD native debugger
+Cover more platforms supported by the debugger with automated tests, with CI whenever it’s possible
+Fix the bugs in debuggers, minor refactorings of the code","Good knowledge of the C language
+Some experience in debugging with GDB or LLDB",Hard,175 hours
+FRIDA integration,"Create the basic plugin that allows attaching, spawning, launching processes within Frida locally
+Support remote connection
+Add feature to receive information from the Frida instance
+Add breakpoints and run/step/continue features
+Support calling functions and scripts in the context of the instrumented process",Participant should know C as well as have experience of working with debuggers,Hard,175 hours
+Rewriting GPL-only code,"Rewrite C++ demangler and remove the GPL code
+Rewrite some of the mainstream architectures that still rely on binutils without using GPL-only code",Participant should know C and basics of C++ for understanding the mangling scheme,Medium,175 hours
+Exploitation capabilities improvements,"Update the shellcodes database, improve rz-gg features and documentation
+Implement a ropchain syntax parser that uses rz-gg or a custom DSL
+Write a compiler which uses SMT solver to produce the ropchain
+Support main architectures - x86, ARM, MIPS, PowerPC","Participant should be comfortable with the C language, know some assembly and a high-level language
+Knowing a little bit of automatic binary analysis wouldn’t hurt",Advanced,175 hours
+Cutter UX improvements,Implementing small issues and missing features to improve user experience significantly,N/A,N/A,N/A
+File formats,Implementing support for any new file format,N/A,N/A,N/A
+Disassemblers and assemblers,Implementing support for any new architecture,N/A,N/A,N/A
+Analysis,Fixing caveats and issues in the current code analysis,N/A,N/A,N/A
+Heap analysis,Improving support for heap exploration and analysis,N/A,N/A,N/A
+Class analysis for C++/ObjectiveC/Swift/Dlang/Java,Managing and using information about classes in the binary,N/A,N/A,N/A
+Devirtualize method calls using class vtables,Finding the actual address of the called method,N/A,N/A,N/A
+Add classes list to Vb,Implementing browsing bin classes,N/A,N/A,N/A
+Rizin legacy code refactoring,Substituting rz_core_cmd calls with direct API calls,N/A,N/A,N/A
+Shell (dietline) improvements,Improving Rizin's readline-compatible implementation in the embedded shell,N/A,N/A,N/A
+Improving regression suite and testing,Solving issues and improving parallel execution and performance,N/A,N/A,N/A
+Unbreaking broken tests,Investigating and fixing broken tests,N/A,N/A,N/A
+RzGhidra,Fixing issues in the decompiler output,N/A,N/A,N/A

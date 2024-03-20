@@ -1,0 +1,2 @@
+idea title,idea description,skills,difficulty,duration
+Refactor Android Client & Rewrite using Android SDK,"Upgrade the Android field officer application to its latest dependencies and rewrite it to consume the recently developed Android SDK written using coroutines. This project aims to reduce repeated network layer code in mobile apps, improve developer experience, and make it easier to migrate to newer versions of Apache Fineract 1.x.","Java, Android SDK, Coroutines",Large,350 hours

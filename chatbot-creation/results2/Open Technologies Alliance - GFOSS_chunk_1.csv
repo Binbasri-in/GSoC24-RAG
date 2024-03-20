@@ -1,0 +1,9 @@
+idea title,idea description,skills,difficulty,duration
+Triplestore Abstraction Layer,Develop a library that acts as an abstraction layer for various triplestore alternatives,"Python, RDF, SPARQL, OWL",Medium,350 hours
+Digital Typeface Quality Control,"Develop a series of tests for quality control on digital typefaces, focusing on Greek characters","Python, Font Technologies, Understanding of Greek Characters",Medium,350 hours
+Cloud-Based FOSSBot Platform Enhancement,"Enhance the cloud-based FOSSBot platform with performance optimization, cooperative modes, educator's content creation system, etc.","React.js, Python, Flask API, Godot, JavaScript, Docker",Medium,350 hours
+Enhancement of Apothesis for ALD/ALE Processes,Enable Apothesis to support atomic layer deposition and etching processes,"C++, Design Patterns, Physics in Deposition Processes",Medium,350 hours
+eCodeOrama Development,Create an educational interactive flow visualization tool for MIT Scratch programs,"Python, MIT Scratch, GUI Development",Medium,350 hours
+SmAuto DSL Enhancement and Integration into HomeAssistant,"Expand SmAuto DSL with features like virtual entities, delays, conditions, and integrate it into HomeAssistant","Python, Software Engineering, IoT Concepts, Unix/Linux",Medium,350 hours
+Factory Pattern for Lattice Handling in Apothesis,Create a factory pattern for handling lattices in Apothesis and incorporate 2D lattices like graphene,"C++, Design Patterns",Medium,350 hours
+MyUni App Development,Develop a CMS for frequently changing information and a backend to fetch real-time info from official university websites,"Web Development, CMS, Backend Development",Medium,350 hours

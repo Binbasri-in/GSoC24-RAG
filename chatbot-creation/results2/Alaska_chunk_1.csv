@@ -1,0 +1,6 @@
+idea title,idea description,skills,difficulty,duration
+Streamlined Internet Measurement Experiments,"Measurements across probes in a city for generalized measurement, build virtual router for network scheduling decisions, utilize RIPE Atlas credits for experiments",Python,Medium,350 Hours
+Telehealth over L4S,"Deploy telehealth with L4S nodes, starting with DICOM endpoints, test network sharing with L4S and non-L4S traffic","Python, network protocols, Linux server installation",Hard,350 Hours
+DICOM Image Retrieval and Processing in Matlab,"Create Matlab DICOM processing framework, process DICOM images, explore networking capabilities","Matlab, DICOM image processing",Hard,350 Hours
+Forest Fire Tracking from Aerial Images,"Develop deep learning model to track forest fires, measure severity/intensity, deploy on low-power device","Python, Deep Neural Networks",Hard,350 Hours
+Reference Implementation for concore Library in Java or Julia,Develop reference implementation of concore library in Java or Julia,"Java, Julia, Python",Medium,350 Hours

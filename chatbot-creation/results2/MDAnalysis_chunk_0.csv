@@ -1,0 +1,6 @@
+idea title,idea description,skills,difficulty,duration
+Generalise Groups,Generalise concept of groups,"Python, NetworkX, Molecular modeling",hard,350 hours
+Extend MDAnalysis Interoperability,Extend converters module to other relevant packages,"Python, Molecular modeling",medium,350 hours
+On the fly transformations,"Expand on code for on-the-fly transformations through documentation, product research or performance optimization","Python, Molecular modeling, Computational chemistry, Scientific writing, Performance profiling",medium/hard,175/350 hours
+2D visualization for small molecules,Add basic 2D visualization functionalities for small molecule groups in notebooks,"Python, basic knowledge of MDAnalysis and RDKit",easy,90 hours
+Better interfacing of Blender and MDAnalysis,Add functionality to visualize simple MDAnalysis results in Blender,"Python, basic knowledge of MDAnalysis, familiarity with Blender ideal",medium,350 hours

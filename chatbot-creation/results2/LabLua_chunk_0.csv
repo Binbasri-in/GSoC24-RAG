@@ -1,0 +1,10 @@
+idea title,idea description,skills,difficulty,duration
+Improved debugging support for Pallene,Improve the debuggability of stack traces in Pallene programming language,"Lua and C programming languages, Lua-C API, Lua debuggers",Challenging,Large (350 hours)
+Documentation generator tool for the Teal language,Create a tool that generates documentation from Teal source code comments,"Teal, Lua libraries, LuaRocks",Intermediate,Large (350 hours)
+Port LuaRocks to Teal,Port the LuaRocks package manager source code to Teal language,"Teal, LuaRocks",Challenging,Large (350 hours)
+A Windows installer for LuaRocks,Develop a native installer for LuaRocks on Windows,"LuaRocks, FOSS GUI installer toolkit, Microsoft Windows",Easy/Intermediate,Large (350 hours)
+Adapt LuaSQL drivers to Lua 5.4,Update LuaSQL drivers to work with Lua 5.4,"Lua, C programming languages, Lua-C API",Intermediate,"Small (90 hours), Medium (175 hours), Large (350 hours)"
+Lunatik binding for Human Interface Devices (HID) drivers,Create a Lunatik library for binding Linux HID APIs using Lua,"Lua and C programming languages, Lua-C API, Linux kernel",Challenging,Large (350 hours)
+Port Lua Test Suite to Lunatik,Port Lua Test Suite scripts to Lunatik for testing Lua C API,"Lua and C programming languages, Linux kernel",Intermediate,Medium (175 hours)
+Lunatik binding for Netfilter,Create a Lunatik library for binding Netfilter to Lua,"Lua and C programming languages, Lua-C API, Linux Networking, Linux kernel",Challenging,Large (350 hours)
+Lunatik package for Linux distros,Create Lunatik packages for Linux distributions,"Lua and C programming languages, build tools, package managers, Linux kernel",Intermediate,Small (90 hours)

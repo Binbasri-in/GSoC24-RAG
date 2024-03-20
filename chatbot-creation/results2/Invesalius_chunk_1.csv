@@ -1,0 +1,15 @@
+idea title,idea description,skills,difficulty,duration
+GSoC 2024 Ideas for InVesalius,This project aims to provide a list of ideas for Google Summer of Code 2024 related to the InVesalius project.,"Programming, Software Development",Medium,3 months
+Add unit tests to InVesalius to ease the process of adding new features,Implement unit tests in InVesalius to facilitate the addition of new features and ensure code quality.,"Programming, Testing",Medium,2 months
+"Add type information to functions, methods and classes in InVesalius","Enhance code readability and maintainability by adding type information to functions, methods, and classes in InVesalius.","Programming, Software Development",Hard,4 months
+Add logging and error catching tool,Implement a logging and error catching tool in InVesalius to improve debugging and error handling.,"Programming, Debugging",Medium,2.5 months
+Support to custom shaders,Add support for custom shaders in InVesalius to enhance graphics rendering capabilities.,"Graphics Programming, Software Development",Medium,3 months
+Implement UX principles to improve InVesalius usability,Enhance the user experience of InVesalius by implementing UX principles and improving the interface design.,"UI/UX Design, Software Development",Hard,5 months
+Performance optimization of real-time neuronavigation,Optimize the performance of real-time neuronavigation in InVesalius to improve speed and efficiency.,"Performance Optimization, Software Development",Hard,6 months
+3D edition of masks,Introduce 3D editing capabilities for masks in InVesalius to enhance visualization and editing features.,"3D Modeling, Software Development",Medium,3.5 months
+"Harmonize and revamp the cross-platform user interface over MacOS, Linux, and Windows",Revamp the user interface of InVesalius to provide a consistent and user-friendly experience across different platforms.,"UI/UX Design, Software Development",Hard,6.5 months
+Real time neuronavigation motor mapping visualization,Implement real-time neuronavigation motor mapping visualization in InVesalius for improved navigation and visualization of motor functions.,"Visualization, Software Development",Medium,4 months
+Surface texture,Enhance surface texture rendering in InVesalius to improve the visual quality of 3D models and objects.,"Graphics Programming, Software Development",Medium,3.5 months
+Extract surface using Dual contouring,Implement surface extraction using Dual contouring technique in InVesalius for accurate and detailed surface generation.,"Graphics Programming, Software Development",Hard,4 months
+Improvements in user response (loading and saving files),Enhance user response time for loading and saving files in InVesalius to improve overall performance and user experience.,"Performance Optimization, Software Development",Medium,2.5 months
+Use Github Actions to create installers for Windows and macOS,Leverage Github Actions to automate the creation of installers for InVesalius on Windows and macOS platforms for easier distribution and installation.,"Automation, Software Development",Medium,2 months

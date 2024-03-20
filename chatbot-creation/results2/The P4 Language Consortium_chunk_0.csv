@@ -1,0 +1,7 @@
+idea title,idea description,skills,difficulty,duration
+P4 compiler documentation site,Improve documentation for the reference P4 compiler project (p4c) by building a central documentation site.,Git,Easy / Medium,~90 hour / ~175 hour / ~350 hour
+Integrate p4-constraints frontend into p4c,Integrate the p4-constraints frontend into the p4c frontend to provide immediate feedback about syntax or type errors in constraints during P4 compilation.,"Git, C++",Easy,~175 hour
+P4 formatter,Build a code formatter for the P4 programming language to unify coding styles and improve engineering productivity.,"Git, C++",Medium,~175 hour / ~350 hour
+BMv2 packet trace support,Provide programmatic access to the trace of a packet going through a P4 pipeline in a structured format.,"Git, C++",Medium,~175 hour
+BMv2 PNA support,Add Portable NIC Architecture (PNA) support to the BMv2 simulator by implementing various externs required by PNA.,"Git, C++",Medium,~350 hour
+P4-enabled container migration in Kubernetes clusters,Provide a P4-based solution for migrating established TCP connections in containerized applications using network protocols such as TCP/IP.,Git,Medium / Hard,~350 hour

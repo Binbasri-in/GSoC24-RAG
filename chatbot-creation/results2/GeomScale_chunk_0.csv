@@ -1,0 +1,16 @@
+idea title,idea description,skills,difficulty,duration
+Randomized SDP solver,Research and Development project for developing a Randomized SDP solver in C++/R,"Mathematical background, C++, R",Large,350 hours
+More efficient volume computation,Research and Development project for improving volume computation in C++,"Mathematical background, C++",Large,350 hours
+Exclude Lpsolve from R and C++ interfaces of volesti,Development project to exclude Lpsolve from interfaces of volesti in C++/R,"C++, R",Medium,175 hours
+Randomized geometric tools for anomaly detection in stock markets,Development project for creating randomized geometric tools for anomaly detection in stock markets in C++/R,"C++, R",Medium,175 hours
+Leveraging the increased statistical value of flux sampling,Research and Development project for leveraging statistical value of flux sampling in Python,"Python, statistical analysis",Large,350 hours
+Metabolic interactions inference using community flux sampling,Research and Development project for inferring metabolic interactions using community flux sampling in Python,"Python, metabolic analysis",Large,350 hours
+Machine Learning and Optimization for Finance: Index Replication,Research and Development project for applying Machine Learning and Optimization in Finance for Index Replication in Python/R,"Python, R, Machine Learning, Finance",Large,350 hours
+Modernize Linear Program solver interface in dingo,Development project for modernizing Linear Program solver interface in dingo in Python,"Python, Linear Programming",Medium,175 hours
+Improve the Cpp implementation of rounding method in volesti library,Development project for improving C++ implementation of rounding method in volesti library,"C++, algorithm optimization",Medium,175 hours
+Develop a new rounding method for convex polytopes,Development project for developing a new rounding method for convex polytopes in C++,"C++, algorithm design",Medium,175 hours
+Partitioning the computational load of Apothesis into threads,Development project for partitioning computational load of Apothesis into threads in C++,"C++, multithreading",Medium,175 hours
+Counting linear extensions with volume computation,Research and Development project for counting linear extensions with volume computation in C++,"Mathematical background, C++",Large,350 hours
+Expose sampling and volume on spectrahedra to R interface of volesti,Development project for exposing sampling and volume on spectrahedra to R interface of volesti,"R, Rcpp",Medium,175 hours
+Expose autodiff to R interface of volesti,Development project for exposing autodiff to R interface of volesti,"R, Rcpp",Medium,175 hours
+Improve sampling routines for Correlation matrices and R interface,Development project for improving sampling routines for Correlation matrices and R interface in C++,"C++, R",Small,90 hours

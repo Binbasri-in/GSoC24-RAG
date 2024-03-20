@@ -1,0 +1,35 @@
+idea title,idea description,skills,difficulty,duration
+Real-time BGP monitor,"Network operators need to monitor the global reachability of their IP prefixes
+every time they update their routing policies , RPKI , or BGP announcements.
+The goal of this project is to provide a monitoring dashboard on the IHR website
+to easily monitor how a prefix propagates on the Internet . This tool should get
+a prefix ( or list of prefixes or an ASN ) from a user , optionnally the user can
+select a list of RIS collectors and the maximum number of hops from the monitored
+prefix to display . Then the user push a 'play ' button . The tool connects to
+RIS Live with the corresponding parameters and displays the AS paths received.
+It could be similar to BGPlay but we 'd like to
+show only nodes that are near the monitored prefix so the graphs are more readable.
+A path should be replaced if a new path is advertised by the same peer.
+We also would like to show line charts to reflect the changes over time.","Basics of BGP , Javascript , VueJS , D3JS or other plotting library",Medium,175 hours
+IYP automatic deployment,"For the Internet Yellow Pages we compute every week a new
+database that we want to make publicly available as soon as possible . The goal
+of this project is to design and implement this automated deployment . This
+requires multiple tests that will ensure the integrity of the new database , 
+automatically store the new database on a public repository , and hot swap databases.
+Optionally we could keep older databases online , for example all databases for the
+past month.","Neo4j , python , docker",Easy/Medium,175 hours
+Network topology overview,"IHR monitors the inter-dependence of networks ( e.g . the
+university of Tokyo relies on Japan 's academic ISP ) and displays these
+dependencies with very simple line charts that highlights changes over time.
+Representing this data as a graph is more intuitive for network operators.
+So the goal of this project is to show the connectivity of a network ( aka AS ) in
+a simple graph.
+Using data from the Internet Yellow Pages we can depict a very detailed view of
+an AS , by finding all prefixes originated by the AS , fetching AS dependencies for
+all these prefixes , grouping these prefixes based on their dependencies , and
+finally displaying an AS graph that shows how these prefixes are connected to the
+Internet . Additional information for each AS/prefix can be displayed by querying
+IYP.
+Related to this project , we have an offline tool that shows network dependencies
+for a country , this is also something we 'd like to implement on IHR website
+ ( https : //github.com/InternetHealthReport/country-as-hegemony-viz ) .","Basics of BGP , Javascript , VueJS , and visualization library ( i.e . Plotly or D3.js )",Medium,175 hours or 350 hours

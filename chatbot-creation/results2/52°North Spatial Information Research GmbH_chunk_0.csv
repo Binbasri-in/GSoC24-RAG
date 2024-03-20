@@ -1,0 +1,5 @@
+idea title,idea description,skills,difficulty,duration
+OGC API related projects for client and server implementations,Implement clients of various programming languages for different APIs at 52°North,"Basic programming skills, R, Python, JS, Java, QGIS",Medium,175 hours
+STA Integration in MapStore for GeoNode 4.0,Adapt GeoNode remote services to include data through Sensor Things API in GeoNode 4.x,"GeoNode, STA, GNU GPL 2.0",Medium,175 hours
+NetCDF support in GeoNode and GeoServer,Implement NetCDF support in GeoNode for array shaped data,"GeoNode, GeoServer, GNU GPL 2.0",Medium,175 hours
+enviroCar App: Mapbox to MapLibre migration,Replace Mapbox dependencies with MapLibre in enviroCar Android app,"Android development, MapLibre, Apache Software License",Medium,175 hours

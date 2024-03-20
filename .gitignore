@@ -291,6 +291,3 @@ dist
 .pnp.*
 
 tutorial-llama-index/
-*.txt
-*.csv
-*.json
