@@ -55,6 +55,7 @@ python chat.py
 - [spaCy](https://spacy.io/usage/large-language-models)
 - [Google AI Studio](https://aistudio.google.com/)
 - [OpenAI](https://platform.openai.com/)
+- [build a chatbot in Streamlit](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
 
 ## Contributing
 
