@@ -10,6 +10,8 @@ Or check the searchable Index [here](https://dashboard.algolia.com/interface-dem
 
 Read my Blog for more information: [GSoC24-RAG](https://medium.com/@mohammed.binbasri/gsoc-2024-chatbot-with-the-power-of-rag-and-find-the-perfect-match-3b4aa5f04f1b)
 
+<img src="https://i.postimg.cc/668JWLpM/Screenshot-2024-03-25-at-2-15-57-AM.png" alt="image of the streamlit app" />
+
 ## Installation
 ```bash
 pip install -r requirements.txt
